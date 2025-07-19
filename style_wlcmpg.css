@@ -52,7 +52,7 @@ body, html {
       overflow: hidden;
     }
 
-    .box1 a , .box2 a , .box3 a {
+    .a1 , .a2 , .a3 {
       text-decoration: none;
       color: #ffffff;
       z-index: 2;
